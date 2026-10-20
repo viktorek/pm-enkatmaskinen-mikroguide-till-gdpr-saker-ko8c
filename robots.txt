@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /d/
+Disallow: /nedladdning/
 Sitemap: https://viktorek.github.io/pm-enkatmaskinen-mikroguide-till-gdpr-saker-ko8c/sitemap.xml
