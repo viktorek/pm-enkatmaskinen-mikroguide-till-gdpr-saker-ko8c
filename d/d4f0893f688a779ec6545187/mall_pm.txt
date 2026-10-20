@@ -1,0 +1,32 @@
+[MALL] Dataskyddsinformation (Enkät-PM) – Anpassa texten inom klamrarna!
+
+Syfte:
+[Här beskriver du varför du samlar in uppgifter – t.ex. “För att förbättra våra tjänster efter kunders feedback på supportinsatser.”]
+
+Vilka personuppgifter samlas in:
+[Beskriv EXAKT, t.ex. “E-postadress, svar på fritextfråga och val av region” eller liknande. Lista alla uppgifter!]
+
+Laglig grund:
+[Markera och motivera: Berättigat intresse (nöjdhetsundersökning), samtycke (frågor om hälsa eller annan känslig info), avtal, etc.]
+
+Hur länge sparas uppgifterna:
+[Ange tid – t.ex. “Svar raderas inom 3 månader efter avslutad undersökning.”]
+
+Vem har tillgång till uppgifterna:
+[Endast företagets VD, - eller särskilt namngiven administratör. Ange namn/funktionen.]
+
+Rättigheter för deltagaren:
+- Begära registerutdrag
+- Begära rättelse eller radering
+- När som helst återkalla ett lämnat samtycke (om aktuellt)
+
+Kontaktuppgifter:
+[Företagets namn, ansvarig person, e-postadress och ev. telefon]
+
+Övrigt:
+[Här kan du lägga in rutiner för gallring, kontakt till IMY, hänvisning till dataskyddspolicy eller annan lokal info.]
+
+Namn på enkäten:
+[Ange för sammanställningen i personuppgiftsregistret; t.ex. “Supportfeedback Maj 2024”]
+  
+Dokumentera denna mall och spara i företagets dataskyddsmapp.
